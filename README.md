@@ -56,8 +56,10 @@ This project is a 5-DOF robotic arm powered by high-torque servo motors for prec
   - L2 = 20.8 cm (First joint to end effector)
 - **Payload Capacity**: 0.3 kg maximum
 
-![Servo Holder](images/servo_holder.png)
-*3D-printed servo holder assembly with integrated bearings*
+<div align="center">
+  <img src="images/servo_holder.png" alt="Servo Holder Image" width="250"/> <br>
+  <i>3D-printed servo holder assembly with integrated bearings</i>
+</div>
 
 ## Technical Specifications
 
