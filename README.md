@@ -13,8 +13,6 @@ This project is a 5-DOF robotic arm powered by high-torque servo motors for prec
   <i>Complete CAD assembly showing the robotic arm structure </i>
 </div>
 
-
-
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Features](#features)
@@ -23,8 +21,9 @@ This project is a 5-DOF robotic arm powered by high-torque servo motors for prec
 - [Installation](#installation)
 - [Code Structure](#code-structure)
 - [Analysis & Simulation](#analysis--simulation)
-- [License](#license)
 - [Acknowledgments](#acknowledgments)
+- [License](#license)
+
 
 ## Features
 
@@ -244,10 +243,6 @@ Structural analysis of mechanical components:
 - **AI Integration**: Machine learning for adaptive grasping
 - **Multi-Arm Coordination**: Synchronized operation of multiple arms
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 **Built with passion for robotics education and innovation**
@@ -259,3 +254,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - RoboAnalyzer developers for kinematic simulation capabilities
 - Open source robotics community for inspiration and resources
 - All team members for their dedicated contributions to this project
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
