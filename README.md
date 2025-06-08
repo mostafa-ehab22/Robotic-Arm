@@ -245,8 +245,7 @@ Structural analysis of mechanical components:
 
 ## Acknowledgments
 
-**Built with passion for robotics education and innovation**
-*This project demonstrates the integration of mechanical design, control systems, and kinematic analysis in modern robotics applications.*
+*Built with passion for robotics education and innovation. This project demonstrates the integration of mechanical design, control systems, and kinematic analysis in modern robotics applications.*
 
 - Alexadria University robotics program for project support
 - Arduino community for extensive servo control libraries
