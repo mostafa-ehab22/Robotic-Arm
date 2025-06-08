@@ -200,13 +200,13 @@ Structural analysis of mechanical components:
 
 <div align="center">
   <img src="images/FEA_stress_analysis.png" alt="Stress Analysis" width="400"/> <br>
-  <i>FEA stress analysis results</i>
+  <i>FEA Stress Analysis</i>
 </div>
 <br>
 
 <div align="center">
   <img src="images/FEA_displacement_analysis.png" alt="Displacement Analysis" width="400"/> <br>
-  <i>3D simulation of the robotic arm in RoboAnalyzer</i>
+  <i>FEA Displacement Analysis</i>
 </div>
 
 ### Code Style Guidelines
@@ -257,4 +257,4 @@ Structural analysis of mechanical components:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
