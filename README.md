@@ -23,8 +23,8 @@ This project is a 5-DOF robotic arm powered by high-torque servo motors for prec
 - [Installation](#installation)
 - [Code Structure](#code-structure)
 - [Analysis & Simulation](#analysis--simulation)
-- [Team Members](#team-members)
 - [License](#license)
+- [Acknowledgments](#acknowledgments)
 
 ## Features
 
@@ -182,7 +182,7 @@ Serial.println(pos_stamp);
 - Joint limit and workspace boundary analysis
 
 <div align="center">
-  <img src="images/roboAnalyzer.png" alt="Robotic Arm in RoboAnalyzer" width="200"/> <br>
+  <img src="images/RoboAnalyzer.png" alt="Robotic Arm in RoboAnalyzer" width="450"/> <br>
   <i>3D simulation of the robotic arm in RoboAnalyzer</i>
 </div>
 
@@ -209,24 +209,6 @@ Structural analysis of mechanical components:
   <img src="images/FEA_displacement_analysis.png" alt="Displacement Analysis" width="400"/> <br>
   <i>3D simulation of the robotic arm in RoboAnalyzer</i>
 </div>
-
-## Team Members
-
-| Name | Role |
-|------|------|
-| Mostafa Ehab | System Testing & Validation |
-| Fares Eldamanhoury | Project Lead & System Integration |
-| Raed Eldamanhoury  | Mechanical Design & CAD |
-| Nehal Osama  | Control Systems & Programming |
-| Afraim Gamil | Kinematic Analysis & MATLAB |
-| Fathy Fayez | Arduino Programming & Testing |
-| Omar Ayman | Assembly & Manufacturing |
-| Adam Ezzat | Documentation & Technical Writing |
-| Ibrahim Mohamed | CAD Design & 3D Modeling |
-| Abdelghfour Alaa | Simulation & RoboAnalyzer |
-| Mahmoud Fathy | Electronics & Wiring |
-| Salem El-sayed | System Integration & Assembly |
-| Youssef Amr | Quality Assurance & Testing |
 
 ### Code Style Guidelines
 
@@ -266,23 +248,10 @@ Structural analysis of mechanical components:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-```
-MIT License
-
-Copyright (c) 2024 Robotic Arm Project Team
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-```
-
 ## Acknowledgments
+
+**Built with passion for robotics education and innovation**
+*This project demonstrates the integration of mechanical design, control systems, and kinematic analysis in modern robotics applications.*
 
 - Alexadria University robotics program for project support
 - Arduino community for extensive servo control libraries
@@ -290,7 +259,3 @@ copies or substantial portions of the Software.
 - RoboAnalyzer developers for kinematic simulation capabilities
 - Open source robotics community for inspiration and resources
 - All team members for their dedicated contributions to this project
-
-**Built with passion for robotics education and innovation**
-
-*This project demonstrates the integration of mechanical design, control systems, and kinematic analysis in modern robotics applications.*
