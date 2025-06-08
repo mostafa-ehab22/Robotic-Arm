@@ -173,18 +173,6 @@ Serial.println(pos_stamp);
 
 ## Analysis & Simulation
 
-### MATLAB Kinematics Analysis
-
-The project includes comprehensive kinematic analysis using MATLAB:
-
-- **Forward Kinematics**: Calculate end-effector position from joint angles
-- **Inverse Kinematics**: Determine joint angles for desired positions
-- **Workspace Analysis**: Visualize reachable positions through contour plots
-- **Jacobian Computation**: Velocity and force analysis
-
-![MATLAB Workspace](images/matlab_workspace.png)
-*MATLAB workspace analysis showing reachable positions and joint configurations*
-
 ### RoboAnalyzer Simulation
 
 3D simulation verification using RoboAnalyzer:
@@ -205,8 +193,22 @@ Structural analysis of mechanical components:
 - **Displacement Analysis**: Deflection calculations for accuracy
 - **Safety Factor**: Ensuring reliable operation within design limits
 
-![FEA Analysis](images/fea_analysis.png)
-*FEA stress analysis results showing force distribution*
+<div align="center">
+  <img src="images/FEA_force_distribution.png" alt="Force Distribution" width="400"/> <br>
+  <i>FEA force distribution</i>
+</div>
+<br>
+
+<div align="center">
+  <img src="images/FEA_stress_analysis.png" alt="Stress Analysis" width="400"/> <br>
+  <i>FEA stress analysis results</i>
+</div>
+<br>
+
+<div align="center">
+  <img src="images/FEA_displacement_analysis.png" alt="Displacement Analysis" width="400"/> <br>
+  <i>3D simulation of the robotic arm in RoboAnalyzer</i>
+</div>
 
 ## Team Members
 
