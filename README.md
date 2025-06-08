@@ -8,8 +8,10 @@
 
 This project is a 5-DOF robotic arm powered by high-torque servo motors for precise, automated object manipulation. Its modular rotary joints use PWM control to deliver repeatable, accurate motions ideal for pick-and-place tasks. Designed for light industrial automation, assembly, and educational use, the arm features a servo-driven gripper offering reliable grasping with fine grip and positioning control. Built for scalability, it supports easy integration with sensors and advanced control systems.
 
-![CAD Design](images/cad_design.png) <br>
-*Complete CAD assembly showing the robotic arm structure*
+<div align="center">
+  <img src="images/robotic_arm_overview.png" alt="Robotic Arm Project" width="500"/> <br>
+  <i>Complete CAD assembly showing the robotic arm structure </i>
+</div>
 
 
 
@@ -105,11 +107,13 @@ This project is a 5-DOF robotic arm powered by high-torque servo motors for prec
    Power Supply   → External 6V (servo power)
    ```
 
-![Wiring Diagram](images/wiring_diagram.png)
-*Complete wiring schematic for the robotic arm*
+<div align="center">
+  <img src="images/wiring_diagram.png" alt="Wiring Diagram" width="350"/> <br>
+  <i>Complete wiring schematic for the robotic arm</i>
+</div>
 
 4. **Upload the code**
-   - Open `robotic_arm_control.ino` in Arduino IDE
+   - Open `source_code.ino` in Arduino IDE
    - Select your board type and port
    - Compile and upload to Arduino
    - Open Serial Monitor (9600 baud) for debugging
@@ -187,8 +191,10 @@ The project includes comprehensive kinematic analysis using MATLAB:
 - Movement visualization and path planning
 - Joint limit and workspace boundary analysis
 
-![RoboAnalyzer Simulation](images/roboanalyzer_sim.png)
-*3D simulation of the robotic arm in RoboAnalyzer*
+<div align="center">
+  <img src="images/roboAnalyzer.png" alt="Robotic Arm in RoboAnalyzer" width="200"/> <br>
+  <i>3D simulation of the robotic arm in RoboAnalyzer</i>
+</div>
 
 ### Finite Element Analysis (FEA)
 
