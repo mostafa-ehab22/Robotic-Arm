@@ -14,7 +14,7 @@ This project is a 5-DOF robotic arm powered by high-torque servo motors for prec
 </div>
 
 ## 📚 Table of Contents
-- [Project Overview](#project-overview)
+- [Project Overview](#📌project-overview)
 - [Features](#features)
 - [Hardware Components](#hardware-components)
 - [Technical Specifications](#technical-specifications)
