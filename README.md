@@ -73,7 +73,7 @@ This project is a 5-DOF robotic arm powered by high-torque servo motors for prec
 | **DOF** | 5 (3 main joints + 2 gripper) |
 | **Repeatability** | ±1-2 degrees (servo-dependent) |
 
-## 🔌 Installation
+## ⚡Installation
 
 ### Prerequisites
 
