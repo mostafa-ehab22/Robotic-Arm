@@ -88,8 +88,8 @@ This project is a 5-DOF robotic arm powered by high-torque servo motors for prec
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/robotic-arm-project.git
-   cd robotic-arm-project
+   git clone https://github.com/yourusername/Robotic-Arm.git
+   cd Robotic-Arm
    ```
 
 2. **Assemble the mechanical structure**
