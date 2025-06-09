@@ -4,7 +4,7 @@
 ![Arduino](https://img.shields.io/badge/Platform-Arduino-blue)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-## Project Overview
+## 📌 Project Overview
 
 This project is a 5-DOF robotic arm powered by high-torque servo motors for precise, automated object manipulation. Its modular rotary joints use PWM control to deliver repeatable, accurate motions ideal for pick-and-place tasks. Designed for light industrial automation, assembly, and educational use, the arm features a servo-driven gripper offering reliable grasping with fine grip and positioning control. Built for scalability, it supports easy integration with sensors and advanced control systems.
 
@@ -13,7 +13,7 @@ This project is a 5-DOF robotic arm powered by high-torque servo motors for prec
   <i>Complete CAD assembly showing the robotic arm structure </i>
 </div>
 
-## Table of Contents
+## 📚 Table of Contents
 - [Project Overview](#project-overview)
 - [Features](#features)
 - [Hardware Components](#hardware-components)
@@ -25,7 +25,7 @@ This project is a 5-DOF robotic arm powered by high-torque servo motors for prec
 - [License](#license)
 
 
-## Features
+## 🧬 Features
 
 - **5-DOF Configuration**: Base rotation, shoulder, elbow, wrist, and dual gripper control
 - **360° Base Rotation**: Enhanced flexibility for workspace coverage
@@ -34,7 +34,7 @@ This project is a 5-DOF robotic arm powered by high-torque servo motors for prec
 - **Modular Design**: Easy assembly and maintenance
 - **Educational Focus**: Ideal for robotics learning and prototyping
 
-## Hardware Components
+## 🛠️ Hardware Components
 
 ### Servo Configuration
 
@@ -60,7 +60,7 @@ This project is a 5-DOF robotic arm powered by high-torque servo motors for prec
   <i>3D-printed servo holder assembly with integrated bearings</i>
 </div>
 
-## Technical Specifications
+## 📊 Technical Specifications
 
 | Specification | Value |
 |---------------|-------|
@@ -73,7 +73,7 @@ This project is a 5-DOF robotic arm powered by high-torque servo motors for prec
 | **DOF** | 5 (3 main joints + 2 gripper) |
 | **Repeatability** | ±1-2 degrees (servo-dependent) |
 
-## Installation
+## 🔌 Installation
 
 ### Prerequisites
 
@@ -126,7 +126,7 @@ This project is a 5-DOF robotic arm powered by high-torque servo motors for prec
 3. Monitor servo positions through Serial Monitor
 4. Verify smooth movement and proper grip operation
 
-## Code Structure
+## 🧠 Code Structure
 
 The control system operates in 4 sequential phases:
 
@@ -170,7 +170,7 @@ Serial.println(pos_stamp);
 - **Sequence Modification**: Reorder or add movement phases
 - **Sensor Integration**: Add position feedback or force sensing
 
-## Analysis & Simulation
+## 🧪 Analysis & Simulation
 
 ### RoboAnalyzer Simulation
 
@@ -216,7 +216,7 @@ Structural analysis of mechanical components:
 - Include function documentation
 - Test all changes before submitting
 
-## Troubleshooting
+## 🧩 Troubleshooting
 
 ### Common Issues
 
@@ -235,7 +235,7 @@ Structural analysis of mechanical components:
 - Check USB cable connection
 - Verify correct COM port selection
 
-## Future Enhancements
+## 🔮 Future Enhancements
 
 - **Sensor Integration**: Force sensors, position feedback, vision systems
 - **Advanced Control**: PID control, trajectory optimization
@@ -243,7 +243,7 @@ Structural analysis of mechanical components:
 - **AI Integration**: Machine learning for adaptive grasping
 - **Multi-Arm Coordination**: Synchronized operation of multiple arms
 
-## Acknowledgments
+## 🙌 Acknowledgments
 
 *Built with passion for robotics education and innovation. This project demonstrates the integration of mechanical design, control systems, and kinematic analysis in modern robotics applications.*
 
@@ -254,6 +254,6 @@ Structural analysis of mechanical components:
 - Open source robotics community for inspiration and resources
 - All team members for their dedicated contributions to this project
 
-## License
+## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
