@@ -13,18 +13,6 @@ This project is a 5-DOF robotic arm powered by high-torque servo motors for prec
   <i>Complete CAD assembly showing the robotic arm structure </i>
 </div>
 
-- ## 📚 Table of Contents
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [Hardware Components](#hardware-components)
-- [Technical Specifications](#technical-specifications)
-- [Installation](#installation)
-- [Code Structure](#code-structure)
-- [Analysis & Simulation](#analysis--simulation)
-- [Acknowledgments](#acknowledgments)
-- [License](#license)
-
-
 ## 🧬 Features
 
 - **5-DOF Configuration**: Base rotation, shoulder, elbow, wrist, and dual gripper control
