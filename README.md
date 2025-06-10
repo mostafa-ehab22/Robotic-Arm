@@ -182,19 +182,19 @@ Structural analysis of mechanical components:
 
 <div align="center">
   <img src="images/FEA_force_distribution.png" alt="Force Distribution" width="400"/> <br>
-  <i>FEA force distribution</i>
+  <i>Force Distribution</i>
 </div>
 <br>
 
 <div align="center">
   <img src="images/FEA_stress_analysis.png" alt="Stress Analysis" width="400"/> <br>
-  <i>FEA Stress Analysis</i>
+  <i>Stress Analysis</i>
 </div>
 <br>
 
 <div align="center">
   <img src="images/FEA_displacement_analysis.png" alt="Displacement Analysis" width="400"/> <br>
-  <i>FEA Displacement Analysis</i>
+  <i>Displacement Analysis</i>
 </div>
 
 ### Code Style Guidelines
