@@ -235,7 +235,7 @@ Structural analysis of mechanical components:
 
 *Built with passion for robotics education and innovation. This project demonstrates the integration of mechanical design, control systems, and kinematic analysis in modern robotics applications.*
 
-- Alexadria University robotics program for project support
+- Alexandria University robotics program for project support
 - Arduino community for extensive servo control libraries
 - MATLAB/Simulink for powerful analysis and simulation tools
 - RoboAnalyzer developers for kinematic simulation capabilities
