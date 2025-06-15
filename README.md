@@ -223,7 +223,7 @@ Structural analysis of mechanical components:
 - Check USB cable connection
 - Verify correct COM port selection
 
-## 🔮 Future Enhancements
+## 🚀 Future Enhancements
 
 - **Sensor Integration**: Force sensors, position feedback, vision systems
 - **Advanced Control**: PID control, trajectory optimization
