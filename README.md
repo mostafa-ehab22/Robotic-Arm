@@ -1,7 +1,7 @@
 # Robotic Arm Project - Invisible Arm Team 
 
 ![Project Status](https://img.shields.io/badge/Status-Complete-brightgreen)
-![Arduino Uno](https://img.shields.io/badge/Platform-Arduino-blue)
+![Arduino](https://img.shields.io/badge/Platform-Arduino-blue)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ## 📌 Project Overview
