@@ -25,7 +25,8 @@ This project is a 5-DOF robotic arm powered by high-torque servo motors for prec
 ## 🛠️ Hardware Components
 
 ### Servo Configuration
-
+<div align="center">
+  
 | Servo | Pin | Function | Range | Description |
 |-------|-----|----------|-------|-------------|
 | Base | 9 | Horizontal Rotation | 0°-90° | Controls arm base rotation |
@@ -33,6 +34,8 @@ This project is a 5-DOF robotic arm powered by high-torque servo motors for prec
 | Stamp | 11 | Wrist/Forearm | 0°-80° | End effector positioning |
 | Gripper | 5 | Primary Grip | 70°-115° | Main gripper mechanism |
 | Gripper_2 | 6 | Secondary Grip | 10°-40° | Fine grip adjustment |
+
+</div>
 
 ### Mechanical Structure
 
@@ -50,6 +53,8 @@ This project is a 5-DOF robotic arm powered by high-torque servo motors for prec
 
 ## 📊 Technical Specifications
 
+<div align="center">
+  
 | Specification | Value |
 |---------------|-------|
 | **Maximum Reach** | 42.8 cm (L1 + L2) |
@@ -61,6 +66,7 @@ This project is a 5-DOF robotic arm powered by high-torque servo motors for prec
 | **DOF** | 5 (3 main joints + 2 gripper) |
 | **Repeatability** | ±1-2 degrees (servo-dependent) |
 
+</div>
 ## ⚡Installation
 
 ### Prerequisites
