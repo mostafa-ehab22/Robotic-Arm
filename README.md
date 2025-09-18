@@ -67,6 +67,7 @@ This project is a 5-DOF robotic arm powered by high-torque servo motors for prec
 | **Repeatability** | ±1-2 degrees (servo-dependent) |
 
 </div>
+
 ## ⚡Installation
 
 ### Prerequisites
