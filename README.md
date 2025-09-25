@@ -1,4 +1,4 @@
-# Robotic Arm Project - Invisible Arm Team 
+# Robotic Arm Project 
 
 ![Arduino](https://img.shields.io/badge/Platform-Arduino-blue)
 ![Project Status](https://img.shields.io/badge/Status-Complete-brightgreen)
