@@ -10,7 +10,7 @@ This project is a 5-DOF robotic arm powered by high-torque servo motors for prec
 
 <div align="center">
   <img src="images/robotic_arm_overview.png" alt="Robotic Arm Project" width="500"/> <br>
-  <i>Complete CAD assembly showing the robotic arm structure </i>
+  <i>Complete CAD assembly of robotic arm structure </i>
 </div>
 
 ## 🧬 Features
