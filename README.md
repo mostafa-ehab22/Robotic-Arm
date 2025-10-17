@@ -107,6 +107,7 @@ This project is a 5-DOF robotic arm powered by high-torque servo motors for prec
   <img src="images/wiring_diagram.png" alt="Wiring Diagram" width="350"/> <br>
   <i>Complete wiring schematic of robotic arm</i>
 </div>
+<br>
 
 4. **Upload the code**
    - Open `source_code.ino` in Arduino IDE
