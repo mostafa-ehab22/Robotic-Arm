@@ -1,10 +1,7 @@
-# Robotic Arm Project 
-
+## 📌 Project Overview
 ![Arduino](https://img.shields.io/badge/Platform-Arduino-blue)
 ![Project Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
-
-## 📌 Project Overview
 
 This project is a 5-DOF robotic arm powered by high-torque servo motors for precise, automated object manipulation. Its modular rotary joints use PWM control to deliver repeatable, accurate motions ideal for pick-and-place tasks. Designed for light industrial automation, assembly, and educational use, the arm features a servo-driven gripper offering reliable grasping with fine grip and positioning control. Built for scalability, it supports easy integration with sensors and advanced control systems.
 
