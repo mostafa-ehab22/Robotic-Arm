@@ -53,7 +53,7 @@ This project is a 5-DOF robotic arm powered by high-torque servo motors for prec
 <div align="center">
   
 | Specification | Value |
-|---------------|-------|
+|---------------|:-------:|
 | **Maximum Reach** | 42.8 cm (L1 + L2) |
 | **Payload Capacity** | 0.3 kg |
 | **Joint 1 Torque** | 22.1 kg·cm |
