@@ -1,9 +1,11 @@
-## 📌 Project Overview
-![Arduino](https://img.shields.io/badge/Platform-Arduino-blue)
-![Project Status](https://img.shields.io/badge/Status-Complete-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+## 🎯 Project Overview
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878A?logo=arduino&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-CC0000?logo=dassaultsystemes&logoColor=white)
 
-This project is a 5-DOF robotic arm powered by high-torque servo motors for precise, automated object manipulation. Its modular rotary joints use PWM control to deliver repeatable, accurate motions ideal for pick-and-place tasks. Designed for light industrial automation, assembly, and educational use, the arm features a servo-driven gripper offering reliable grasping with fine grip and positioning control. Built for scalability, it supports easy integration with sensors and advanced control systems.
+A 5-DOF robotic arm engineered for precise, automated object manipulation using high-torque servo motors across modular rotary joints. PWM control drives each joint independently, delivering repeatable motion profiles optimized for pick-and-place operations across a 42.8 cm reach, with a dual-servo gripper offering fine grip modulation and reliable object retention.
+
+Targeting light industrial automation, rapid prototyping, and educational deployment, the system pairs mechanical simplicity with a scalable control architecture validated through kinematic simulation and FEA structural analysis.
 
 <div align="center">
   <img src="images/robotic_arm_overview.png" alt="Robotic Arm Project" width="500"/> <br>
