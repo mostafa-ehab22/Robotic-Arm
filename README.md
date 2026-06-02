@@ -10,7 +10,7 @@ Targeting light industrial automation, rapid prototyping, and educational deploy
 <br>
 
 <div align="center">
-  <img src="images/robotic_arm_overview.png" alt="Robotic Arm Project" width="55%"/> <br>
+  <img src="images/robotic_arm_overview.png" alt="Robotic Arm Project" width="70%"/> <br>
 </div>
 
 ## 🧬 Features
