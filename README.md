@@ -7,9 +7,10 @@ A 5-DOF robotic arm engineered for precise, automated object manipulation using 
 
 Targeting light industrial automation, rapid prototyping, and educational deployment, the system pairs mechanical simplicity with a scalable control architecture validated through kinematic simulation and FEA structural analysis.
 
+<br>
+
 <div align="center">
-  <img src="images/robotic_arm_overview.png" alt="Robotic Arm Project" width="500"/> <br>
-  <i>Complete CAD assembly of robotic arm </i>
+  <img src="images/robotic_arm_overview.png" alt="Robotic Arm Project" width="55%"/> <br>
 </div>
 
 ## 🧬 Features
