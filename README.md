@@ -81,7 +81,7 @@ Targeting light industrial automation, rapid prototyping, and educational deploy
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/Robotic-Arm.git
+   git clone https://github.com/<yourusername>/Robotic-Arm.git
    cd Robotic-Arm
    ```
 
