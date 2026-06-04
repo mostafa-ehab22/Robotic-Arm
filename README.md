@@ -239,8 +239,7 @@ Structural analysis of mechanical components:
 
 ## 🙌 Acknowledgments
 
-Developed as a course project for the Robotics module at the Faculty of Engineering, Alexandria University. 
-Thanks to all team members for their contributions across mechanical design, control implementation, and structural analysis.
+Developed as a team project for the Robotics module at the Faculty of Engineering, Alexandria University.
 
 ## 📄 License
 
