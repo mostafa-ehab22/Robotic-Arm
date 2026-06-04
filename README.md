@@ -26,12 +26,12 @@ Targeting light industrial automation, rapid prototyping, and educational deploy
 <div align="center">
   
 | Servo | Pin | Function | Range | Description |
-|-------|-----|----------|-------|-------------|
+|-------|:-----:|----------|:-------:|-------------|
 | Base | 9 | Horizontal Rotation | 0°-90° | Controls arm base rotation |
 | Link | 10 | Shoulder Joint | 90°-120° | Main arm segment control |
 | Stamp | 11 | Wrist/Forearm | 0°-80° | End effector positioning |
 | Gripper | 5 | Primary Grip | 70°-115° | Main gripper mechanism |
-| Gripper_2 | 6 | Secondary Grip | 10°-40° | Fine grip adjustment |
+| Gripper 2 | 6 | Secondary Grip | 10°-40° | Fine grip adjustment |
 
 </div>
 
