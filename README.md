@@ -3,12 +3,10 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00878A?logo=arduino&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-CC0000?logo=dassaultsystemes&logoColor=white)
 
-A 5-DOF robotic arm engineered for precise, automated object manipulation using high-torque servo motors across modular rotary joints. PWM control drives each joint independently, delivering repeatable motion profiles optimized for pick-and-place operations across a 42.8 cm reach, with a dual-servo gripper offering fine grip modulation and reliable object retention.
-
-Targeting light industrial automation, rapid prototyping, and educational deployment, the system pairs mechanical simplicity with a scalable control architecture validated through kinematic simulation and FEA structural analysis.
+A 5-DOF robotic arm built for precise pick-and-place automation across a 42.8 cm reach, driven by PWM-controlled high-torque servos and a dual-servo gripper. Validated through kinematic simulation and FEA, the design balances mechanical simplicity with a scalable control architecture targeting light industrial, prototyping, and educational use.
 
 <div align="center">
-  <img src="images/robotic_arm_overview.png" alt="Robotic Arm Project" width="70%"/> <br>
+  <img src="images/robotic_arm_overview.png" alt="Robotic Arm Project" width="99%"/> <br>
 </div>
 
 ## 🧬 Features
