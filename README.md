@@ -6,7 +6,7 @@
 A 5-DOF robotic arm built for precise pick-and-place automation across a 42.8 cm reach, driven by PWM-controlled high-torque servos and a dual-servo gripper. Validated through kinematic simulation and FEA, the design balances mechanical simplicity with a scalable control architecture targeting light industrial, prototyping, and educational use.
 
 <div align="center">
-  <img src="images/robotic_arm_overview.png" alt="Robotic Arm Project" width="89%" height="360px"/> <br>
+  <img src="images/robotic_arm_overview.png" alt="Robotic Arm Project" width="89%" height="355px"/> <br>
 </div>
 
 ## 🧬 Features
